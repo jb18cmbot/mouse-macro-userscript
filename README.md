@@ -1,4 +1,8 @@
-# 鼠标侧键宏 - Tampermonkey 用户脚本
+<p align="center">
+  <img src="logo.svg" width="200" alt="Mouse Macro Logo"/>
+</p>
+
+# 🖱️ 鼠标侧键宏 - Tampermonkey 用户脚本
 
 ## 功能简介
 
